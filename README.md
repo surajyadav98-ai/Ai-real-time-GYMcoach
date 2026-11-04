@@ -1,4 +1,4 @@
-##Ai-real-time-GYMcoach(YOYO fitness)
+## Ai-real-time-GYMcoach(YOYO fitness)
 
 
 An AI-powered fitness coaching application built with Python to support exercise guidance and workout tracking.
