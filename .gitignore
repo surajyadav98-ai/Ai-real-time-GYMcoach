@@ -3,4 +3,6 @@ venv/
 __pycache__/
 *.pyc
 .env
+data.db
+*.db
 .streamlit/secrets.toml
