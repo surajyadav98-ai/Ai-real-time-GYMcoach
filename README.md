@@ -27,7 +27,7 @@ pip install -r "Main App/requirements.txt"
 Start the application:
 
 ```bash
-streamlit run main.py"
+streamlit run "https://ai-real-time-gym-coach-suraj.streamlit.app/"
 ```
 
 ## Developer
